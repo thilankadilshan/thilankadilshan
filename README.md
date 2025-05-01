@@ -9,6 +9,12 @@
 ###
 
 <div align="center">
+  <img src="./pic.gif" alt="github-banner" width="100%"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/thilankadilshan/count.svg?"  />
 </div>
 
@@ -134,11 +140,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img height="200" src="https://www.deviantart.com/omayrmrx1/art/Anime-Boy-Samurai-Live-Wallpaper-1007776444"  />
-</div>
 
 ###
