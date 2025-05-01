@@ -14,10 +14,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/thilankadilshan/count.svg?"  />
-</div>
-
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?thilankadilshan=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
 ###
 
 <p align="center">Skills And Technologies!</p>
