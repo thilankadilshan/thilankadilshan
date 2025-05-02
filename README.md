@@ -12,6 +12,22 @@
   <img src="./pic.gif" alt="github-banner" width="100%"  />
 </div>
 
+<div align="center">
+  <img src="./pic2.mp4" alt="github-banner" width="100%"  />
+</div>
+
+<div align="center">
+  <img src="./pic3.mp4" alt="github-banner" width="100%"  />
+</div>
+
+<div align="center">
+  <img src="./pic4.gif" alt="github-banner" width="100%"  />
+</div>
+
+<div align="center">
+  <img src="./pic4.gif" alt="github-banner" width="100%"  />
+</div>
+
 ###
 
 <p align = "center">
