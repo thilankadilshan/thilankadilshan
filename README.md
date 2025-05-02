@@ -181,14 +181,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://i1.sndcdn.com/artworks-YiI7n5JOVP0JGAVF-z0yF4Q-t500x500.jpg" width="150" style="border-radius: 10px;" alt="Summertime Sadness Cover Art" />
+  <img src="./sum.jpg" width="150" style="border-radius: 10px;" alt="Summertime Sadness Cover Art" />
   
   <br/>
 
-  <b>Now Playing on YouTube Music</b>  
-  <i>🎶 Summertime Sadness - Lana Del Rey 🎶</i>
+<b>Now Playing on YouTube Music</b>  
+ <i>🎶 Summertime Sadness - Lana Del Rey 🎶</i>
 
-  <br/><br/>
-
+  <br/>
   [![Play on YouTube Music](https://img.shields.io/badge/▶️%20Play%20on%20YouTube%20Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://music.youtube.com/watch?v=fRQg_9ulGuI&si=hUaQ-K4CjvUCF6r5)
 </div>
