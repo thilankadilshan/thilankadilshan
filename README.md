@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="./pic3.mp4" alt="github-banner" width="100%"  />
+  <img src="./pic3.gif" alt="github-banner" width="100%"  />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="./pic4.gif" alt="github-banner" width="100%"  />
+  <img src="./pic5.gif" alt="github-banner" width="100%"  />
 </div>
 
 ###
