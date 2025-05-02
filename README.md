@@ -1,6 +1,6 @@
 <h3 align="center">Hellow! My name is Thilanka Dilshan 👋 <br>💻 I'm a Software Engineer from Sri Lanka 🌴🌞</h3>
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <div align="center">
   <img height="238" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdldTY5bTJ2dnByc25iODY2MmFpaXA2enNoYmNzbGlmOTFxbzB0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YtCAXWS94FZbWiKmKH/giphy.gif"  />
