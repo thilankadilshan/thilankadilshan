@@ -15,6 +15,25 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 font-size="20" align="center">A passionate FUll Stack developer and a student from Sri Lanka.</h3>
+
+- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="pic5.gif"/>
+
+- 👯 I’m looking to collaborate on **React Framework**
+
+- 🤝 I’m looking for help with **Backend Design**
+
+- 👨‍💻 All of my projects are available [@Elanza-48](github.com/thilankadilshan)
+
+- 💬 Ask me about **System Designs and Anlysis 😆**
+
+- ⚡ Fun fact **Coding is a passion and not profession.**
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img src="./pic4.gif" alt="github-banner" width="100%"  />
