@@ -6,12 +6,6 @@
   <img height="238" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdldTY5bTJ2dnByc25iODY2MmFpaXA2enNoYmNzbGlmOTFxbzB0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YtCAXWS94FZbWiKmKH/giphy.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="./pic.gif" alt="github-banner" width="100%"  />
-</div>
-
 <div align="center">
   <img src="./pic2.mp4" alt="github-banner" width="100%"  />
 </div>
