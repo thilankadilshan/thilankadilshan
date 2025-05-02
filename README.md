@@ -1,6 +1,4 @@
-<h3 align="center">Hellow! My name is Thilanka Dilshan 👋 <br>💻 I'm a Software Engineer from Sri Lanka 🌴🌞</h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+👋+It's+me+Thilnaka+dilshan!;I'm+a+learning+developer.+💻;I'm+a+CRAZY+cricket+fan;And+I'm+from+Sri+Lanka+🌴🌞)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
