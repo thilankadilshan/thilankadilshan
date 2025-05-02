@@ -179,3 +179,5 @@
 </picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Now Playing on YouTube Music](https://img.shields.io/badge/Now_Playing-YouTube_Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://music.youtube.com/watch?v=fRQg_9ulGuI&si=hUaQ-K4CjvUCF6r5)
