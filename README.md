@@ -22,14 +22,6 @@
   <img src="./pic5.gif" alt="github-banner" width="100%"  />
 </div>
 
-###
-
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?thilankadilshan=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-
-###
-
 <p align="center">Skills And Technologies!</p>
 
 ###
@@ -121,25 +113,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thilankadilshan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=thilankadilshan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=thilankadilshan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilankadilshan&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
 
 <!-- <img src="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/snake.svg" alt="Snake animation" />
 
