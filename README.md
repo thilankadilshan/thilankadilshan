@@ -25,7 +25,7 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/thilankadilshan)
+- 👨‍💻 All of my projects are available [@thilankadilshan](github.com/thilankadilshan)
 
 - 💬 Ask me about **System Designs and Anlysis 😆**
 
