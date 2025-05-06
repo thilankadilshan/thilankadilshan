@@ -20,7 +20,7 @@
 
 <h3 align="left" style="font-size: 20px;">A passionate Full Stack developer and a student from Sri Lanka.</h3>
 
-<img src="gif6.gif" align="right" style="width: 16rem; height: auto; margin-top: -20px;" alt="Learning GIF" />
+<img src="gif6.gif" align="right" style="width: 16rem; height: auto; margin-top: -200px;" alt="Learning GIF" />
 
 - 🌱 I’m currently learning **To be Extroverted**  
 - 👯 I’m looking to collaborate on **React Framework**  
