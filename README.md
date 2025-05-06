@@ -21,7 +21,7 @@
 <h3 align="left" style="font-size: 20px;">A passionate Full Stack developer and a student from Sri Lanka.</h3>
 
 <p>
-  <img src="gif6.gif" align="right" width="260" alt="Learning GIF">
+  <img src="gif6.gif" align="right" width="500" alt="Learning GIF">
 </p>
 
 - 🌱 I’m currently learning **To be Extroverted**  
