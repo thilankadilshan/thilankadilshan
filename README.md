@@ -18,19 +18,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 font-size="20" align="left">A passionate FUll Stack developer and a student from Sri Lanka.</h3> <img align="right" style="width:16rem; height:auto" src="gif6.gif"/>
+<h3 align="left" style="font-size: 20px;">A passionate Full Stack developer and a student from Sri Lanka.</h3>
 
-- 🌱 I’m currently learning **To be Extroverted** 
+<img src="gif6.gif" align="right" style="width: 16rem; height: auto; margin-top: -20px;" alt="Learning GIF" />
 
-- 👯 I’m looking to collaborate on **React Framework**
-
-- 🤝 I’m looking for help with **Backend Design**
-
-- 👨‍💻 All of my projects are available [@thilankadilshan](github.com/thilankadilshan)
-
-- 💬 Ask me about **System Designs and Anlysis 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
+- 🌱 I’m currently learning **To be Extroverted**  
+- 👯 I’m looking to collaborate on **React Framework**  
+- 🤝 I’m looking for help with **Backend Design**  
+- 👨‍💻 All of my projects are available [@thilankadilshan](https://github.com/thilankadilshan)  
+- 💬 Ask me about **System Designs and Analysis 😆**  
+- ⚡ Fun fact: **Coding is a passion and not a profession.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
