@@ -20,7 +20,9 @@
 
 <h3 align="left" style="font-size: 20px;">A passionate Full Stack developer and a student from Sri Lanka.</h3>
 
-<img src="gif6.gif" align="right" style="width: 16rem; height: auto; margin-top: -200px;" alt="Learning GIF" />
+<p>
+  <img src="gif6.gif" align="right" width="260" alt="Learning GIF">
+</p>
 
 - 🌱 I’m currently learning **To be Extroverted**  
 - 👯 I’m looking to collaborate on **React Framework**  
@@ -28,6 +30,7 @@
 - 👨‍💻 All of my projects are available [@thilankadilshan](https://github.com/thilankadilshan)  
 - 💬 Ask me about **System Designs and Analysis 😆**  
 - ⚡ Fun fact: **Coding is a passion and not a profession.**
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
