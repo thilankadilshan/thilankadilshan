@@ -1,196 +1,120 @@
+<!-- Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+👋+It's+me+Thilnaka!!!;I'm+a+learning+developer.+💻;I'm+a+CRAZY+cricket+fan;And+I'm+from+Sri+Lanka+🌴🌞" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+👋+It's+me+Thilanka!!!;I'm+a+learning+developer+💻;I'm+a+CRAZY+cricket+fan🏏;And+I'm+from+Sri+Lanka+🌴🌞" alt="Typing SVG" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Welcome GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<!-- Bio -->
+<h3 align="center">A passionate Full Stack Developer and student from Sri Lanka 🇱🇰</h3>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{thilankadilshan}/count.svg" alt="thilankadilshan :: Visitor's Count" /></p>
+- 🌱 I’m currently learning **to be more extroverted** <img align="right" src="gif6.gif" width="200"/>
+- 👯 I’m looking to collaborate on **React projects**
+- 🤝 I’m looking for help with **backend design**
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/thilankadilshan)
+- 💬 Ask me about **System Design and Analysis 😆**
+- ⚡ Fun fact: **Coding is a passion, not just a profession.**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+<!-- Visitor Counter -->
+<h4 align="center">Visitor's Count 👁️</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/thilankadilshan/count.svg" alt="Visitor count" /></p>
+
+---
+
+<!-- Tech Stack -->
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <img src="https://skillicons.dev/icons?i=aws,apache,arduino,bootstrap,canva,docker,figma,firebase,flutter,git,gradle,eslint,dotnet,dart,react,html,css,tailwind,c,csharp,js,mongodb,mysql,nodejs,php,postman,py,wordpress,ps,au,github,java,laravel,matlab,sqlite,threejs,vercel,vite,vscode" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<h3 font-size="20" align="center">A passionate FUll Stack developer and a student from Sri Lanka.</h3>
-
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="gif6.gif"/>
-
-- 👯 I’m looking to collaborate on **React Framework**
-
-- 🤝 I’m looking for help with **Backend Design**
-
-- 👨‍💻 All of my projects are available [@thilankadilshan](github.com/thilankadilshan)
-
-- 💬 Ask me about **System Designs and Anlysis 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="./pic4.gif" alt="github-banner" width="100%"  />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=au" height="40" alt="adobeaudition logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/thilankad1" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/thilankadilshan" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/thilanka.dishann" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/thilanka.dilzhan" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.youtube.com/@dilshan.diries" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#cc0000" alt="youtube" /></a></p>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center"><h2>❤️ Support Me</h2>
-<p><p>
-<a href="https://www.buymeacoffee.com/thilankadilshan">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
-</a>
-</p>
-</p></div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Stats
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thilankadilshan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" alt="Thilanka Dilshan's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilankadilshan&layout=compact&langs_count=8&theme=dracula&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thilankadilshan&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilankadilshan&layout=compact&langs_count=6&theme=dracula&hide_border=false" width="48%" />
 </p>
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thilankadilshan&theme=dracula&margin-w=8&margin-h=8&no-frame=false" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=thilankadilshan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- GitHub Streaks -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thilankadilshan&theme=dracula&hide_border=false&border_radius=5" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thilankadilshan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilankadilshan&radius=16&theme=tokyo-night&area=true" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilankadilshan&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/snake.svg" alt="Snake animation" />
+</p>
 
- <img src="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/snake.svg" alt="Snake animation" />
+<!-- Pacman Graph -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Social Links -->
+<h2 align="center">⚡ Where to find me</h2>
+<p align="center">
+  <a href="https://twitter.com/thilankad1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thilankadilshan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/thilanka.dishann"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/thilanka.dilzhan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@dilshan.diries"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
-<div align="center">
-  <img src="./sum.jpg" width="150" style="border-radius: 10px;" alt="Summertime Sadness Cover Art" />
-  
-  <br/>
+---
 
-<b>Now Playing on YouTube Music</b>  
- <i>🎶 Summertime Sadness - Lana Del Rey 🎶</i>
+<!-- Support Me -->
+<h2 align="center">❤️ Support Me</h2>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/thilankadilshan">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
-[![Play on YouTube Music](https://img.shields.io/badge/▶️%20Play%20on%20YouTube%20Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://music.youtube.com/watch?v=fRQg_9ulGuI&si=hUaQ-K4CjvUCF6r5)
+---
 
-</div>
+<!-- Music Section -->
+<p align="center">
+  <img src="./sum.jpg" width="150" style="border-radius: 10px;" alt="Summertime Sadness Cover Art" /><br/>
+  <b>Now Playing on YouTube Music</b><br/>
+  <i>🎶 Summertime Sadness - Lana Del Rey 🎶</i><br/>
+  <a href="https://music.youtube.com/watch?v=fRQg_9ulGuI&si=hUaQ-K4CjvUCF6r5">
+    <img src="https://img.shields.io/badge/▶️%20Play%20on%20YouTube%20Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Play on YouTube Music" />
+  </a>
+</p>
+
+<!-- Final GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
