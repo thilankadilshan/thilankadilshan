@@ -128,34 +128,12 @@
 
 <div align="center">
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/thilankad1" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#1DA1F2" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/thilankadilshan" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0077B5" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/thilanka.dishann" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#1877F2" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/thilanka.dilzhan" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#E4405F" alt="instagram" /></a>
-<a target="_blank" href="https://www.youtube.com/@dilshan.diries" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#FF0000" alt="youtube" /></a></p>
+<p><a target="_blank" href="https://twitter.com/thilankad1" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=1DA1F2" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/thilankadilshan" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="linkedin" /></a>
+<a target="_blank" href="https://www.facebook.com/thilanka.dishann" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2" alt="facebook" /></a>
+<a target="_blank" href="https://www.instagram.com/thilanka.dilzhan" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" alt="instagram" /></a>
+<a target="_blank" href="https://www.youtube.com/@dilshan.diries" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" alt="youtube" /></a></p>
 </div>
-
-<div align="center">
-  <h2>⚡️ Where to find me</h2>
-  <p>
-    <a target="_blank" href="https://twitter.com/thilankad1" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-    </a>
-    <a target="_blank" href="https://www.linkedin.com/in/thilankadilshan" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </a>
-    <a target="_blank" href="https://www.facebook.com/thilanka.dishann" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
-    </a>
-    <a target="_blank" href="https://www.instagram.com/thilanka.dilzhan" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-    </a>
-    <a target="_blank" href="https://www.youtube.com/@dilshan.diries" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
-    </a>
-  </p>
-</div>
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
