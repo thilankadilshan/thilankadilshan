@@ -18,19 +18,27 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 font-size="20" align="center">A passionate FUll Stack developer and a student from Sri Lanka.</h3>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin-top: 2rem;">
+  <!-- Text Section -->
+  <div style="flex: 1; min-width: 250px;">
+    <h3 style="font-size: 20px; text-align: center;">
+      A passionate Full Stack developer and a student from Sri Lanka.
+    </h3>
+    <ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.8;">
+      <li>🌱 I’m currently learning <strong>To be Extroverted</strong></li>
+      <li>👯 I’m looking to collaborate on <strong>React Framework</strong></li>
+      <li>🤝 I’m looking for help with <strong>Backend Design</strong></li>
+      <li>👨‍💻 All of my projects are available <a href="https://github.com/thilankadilshan" target="_blank"><strong>@thilankadilshan</strong></a></li>
+      <li>💬 Ask me about <strong>System Designs and Analysis 😆</strong></li>
+      <li>⚡ Fun fact: <strong>Coding is a passion and not a profession.</strong></li>
+    </ul>
+  </div>
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="gif6.gif"/>
-
-- 👯 I’m looking to collaborate on **React Framework**
-
-- 🤝 I’m looking for help with **Backend Design**
-
-- 👨‍💻 All of my projects are available [@thilankadilshan](github.com/thilankadilshan)
-
-- 💬 Ask me about **System Designs and Anlysis 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
+  <!-- Image Section -->
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img src="gif6.gif" alt="Learning GIF" style="width: 16rem; height: auto; max-width: 100%;" />
+  </div>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
