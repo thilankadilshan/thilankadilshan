@@ -18,13 +18,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin-top: 2rem;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: nowrap; margin-top: 2rem;">
   <!-- Text Section -->
-  <div style="flex: 1; min-width: 250px;">
-    <h3 style="font-size: 20px; text-align: center;">
+  <div style="flex: 1;">
+    <h3 style="font-size: 22px; text-align: left; margin-bottom: 1rem;">
       A passionate Full Stack developer and a student from Sri Lanka.
     </h3>
-    <ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.8;">
+    <ul style="list-style: none; padding-left: 0; font-size: 17px; line-height: 1.8;">
       <li>🌱 I’m currently learning <strong>To be Extroverted</strong></li>
       <li>👯 I’m looking to collaborate on <strong>React Framework</strong></li>
       <li>🤝 I’m looking for help with <strong>Backend Design</strong></li>
@@ -35,10 +35,11 @@
   </div>
 
   <!-- Image Section -->
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="gif6.gif" alt="Learning GIF" style="width: 16rem; height: auto; max-width: 100%;" />
+  <div style="flex: 1; text-align: right;">
+    <img src="gif6.gif" alt="Learning GIF" style="width: 24rem; height: auto; max-width: 100%;" />
   </div>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
