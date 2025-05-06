@@ -18,9 +18,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: nowrap; margin-top: 2rem;">
+<div style="display: flex; align-items: center; justify-content: space-between; margin-top: 2rem; flex-wrap: wrap;">
   <!-- Text Section -->
-  <div style="flex: 1;">
+  <div style="flex: 1 1 400px; padding-right: 1rem;">
     <h3 style="font-size: 22px; text-align: left; margin-bottom: 1rem;">
       A passionate Full Stack developer and a student from Sri Lanka.
     </h3>
@@ -35,11 +35,10 @@
   </div>
 
   <!-- Image Section -->
-  <div style="flex: 1; text-align: right;">
-    <img src="gif6.gif" alt="Learning GIF" style="width: 24rem; height: auto; max-width: 100%;" />
+  <div style="flex: 1 1 300px; text-align: center;">
+    <img src="gif6.gif" alt="Learning GIF" style="max-width: 100%; width: 380px; height: auto;" />
   </div>
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
