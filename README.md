@@ -5,10 +5,8 @@
   
 </p>
 
-<div align="center">
-<img align="right" style="width:auto; height:30rem margin-bottom:20px" src="gif6.gif"/>
-</div>
 
+<img align="right" style="width:auto; height:30rem margin-bottom:20px" src="gif6.gif"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -24,17 +22,17 @@
 <div align="center">
 <h3 font-size="20" align="center">A passionate FUll Stack developer and a student from Sri Lanka.</h3>
 
-- 🌱 I’m currently learning **To be Extroverted**
+🌱 I’m currently learning **To be Extroverted**
+ 
+👯 I’m looking to collaborate on **React Framework**
+ 
+🤝 I’m looking for help with **Backend Design**
 
-- 👯 I’m looking to collaborate on **React Framework**
+👨‍💻 All of my projects are available [@thilankadilshan](github.com/thilankadilshan)
 
-- 🤝 I’m looking for help with **Backend Design**
+💬 Ask me about **System Designs and Anlysis 😆**
 
-- 👨‍💻 All of my projects are available [@thilankadilshan](github.com/thilankadilshan)
-
-- 💬 Ask me about **System Designs and Anlysis 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
+⚡ Fun fact **Coding is a passion and not profession.**
 </div>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
