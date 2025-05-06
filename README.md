@@ -127,13 +127,26 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/thilankad1" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/thilankadilshan" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/thilanka.dishann" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/thilanka.dilzhan" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.youtube.com/@dilshan.diries" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#cc0000" alt="youtube" /></a></p>
+  <h2>⚡️ Where to find me</h2>
+  <p>
+    <a target="_blank" href="https://twitter.com/thilankad1" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+    </a>
+    <a target="_blank" href="https://www.linkedin.com/in/thilankadilshan" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+    <a target="_blank" href="https://www.facebook.com/thilanka.dishann" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+    </a>
+    <a target="_blank" href="https://www.instagram.com/thilanka.dilzhan" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+    </a>
+    <a target="_blank" href="https://www.youtube.com/@dilshan.diries" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+    </a>
+  </p>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -148,7 +161,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thilankadilshan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&rank_icon=percentile" height="150" alt="GitHub Stats" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=thilankadilshan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thilankadilshan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
