@@ -2,7 +2,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+👋+It's+me+Thilnaka!!!;I'm+a+learning+developer.+💻;I'm+a+CRAZY+cricket+fan;And+I'm+from+Sri+Lanka+🌴🌞" alt="Typing SVG" />
   </a>
+  <img align="right" style="width:auto; height:30rem margin-bottom:20px" src="gif6.gif"/>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -18,7 +20,7 @@
 
 <h3 font-size="20" align="center">A passionate FUll Stack developer and a student from Sri Lanka.</h3>
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:auto; height:30rem margin-bottom:20px" src="gif6.gif"/>
+- 🌱 I’m currently learning **To be Extroverted**
 
 - 👯 I’m looking to collaborate on **React Framework**
 
