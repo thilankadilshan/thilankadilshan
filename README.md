@@ -18,27 +18,25 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="display: flex; align-items: center; justify-content: space-between; margin-top: 2rem; flex-wrap: wrap;">
-  <!-- Text Section -->
-  <div style="flex: 1 1 400px; padding-right: 1rem;">
-    <h3 style="font-size: 22px; text-align: left; margin-bottom: 1rem;">
-      A passionate Full Stack developer and a student from Sri Lanka.
-    </h3>
-    <ul style="list-style: none; padding-left: 0; font-size: 17px; line-height: 1.8;">
-      <li>🌱 I’m currently learning <strong>To be Extroverted</strong></li>
-      <li>👯 I’m looking to collaborate on <strong>React Framework</strong></li>
-      <li>🤝 I’m looking for help with <strong>Backend Design</strong></li>
-      <li>👨‍💻 All of my projects are available <a href="https://github.com/thilankadilshan" target="_blank"><strong>@thilankadilshan</strong></a></li>
-      <li>💬 Ask me about <strong>System Designs and Analysis 😆</strong></li>
-      <li>⚡ Fun fact: <strong>Coding is a passion and not a profession.</strong></li>
-    </ul>
-  </div>
+<table>
+  <tr>
+    <td width="60%">
+      <h3>A passionate Full Stack developer and a student from Sri Lanka.</h3>
+      <ul>
+        <li>🌱 I’m currently learning <strong>To be Extroverted</strong></li>
+        <li>👯 I’m looking to collaborate on <strong>React Framework</strong></li>
+        <li>🤝 I’m looking for help with <strong>Backend Design</strong></li>
+        <li>👨‍💻 All of my projects are available <a href="https://github.com/thilankadilshan" target="_blank"><strong>@thilankadilshan</strong></a></li>
+        <li>💬 Ask me about <strong>System Designs and Analysis 😆</strong></li>
+        <li>⚡ Fun fact: <strong>Coding is a passion and not a profession.</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="gif6.gif" alt="Learning GIF" width="300px" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Image Section -->
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="gif6.gif" alt="Learning GIF" style="max-width: 100%; width: 380px; height: auto;" />
-  </div>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
