@@ -42,8 +42,6 @@
 
 <h2 align="center">💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-###
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -149,7 +147,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thilankadilshan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thilankadilshan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thilankadilshan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
