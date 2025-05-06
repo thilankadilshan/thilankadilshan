@@ -21,34 +21,6 @@
 </p>
 
 <div align="center">
-<h3 font-size="20" align="center">A passionate FUll Stack developer and a student from Sri Lanka.</h3>
-
-🌱 I’m currently learning **To be Extroverted**
- 
-👯 I’m looking to collaborate on **React Framework**
- 
-🤝 I’m looking for help with **Backend Design**
-
-👨‍💻 All of my projects are available [@thilankadilshan](github.com/thilankadilshan)
-
-💬 Ask me about **System Designs and Anlysis 😆**
-
-⚡ Fun fact **Coding is a passion and not profession.**
-</div>
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="./pic4.gif" alt="github-banner" width="100%"  />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-###
-
-<div align="center">
   <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
@@ -127,6 +99,32 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
+
+<div align="center">
+<h3 font-size="20" align="center">A passionate FUll Stack developer and a student from Sri Lanka.</h3>
+
+🌱 I’m currently learning **To be Extroverted**
+ 
+👯 I’m looking to collaborate on **React Framework**
+ 
+🤝 I’m looking for help with **Backend Design**
+
+👨‍💻 All of my projects are available [@thilankadilshan](github.com/thilankadilshan)
+
+💬 Ask me about **System Designs and Anlysis 😆**
+
+⚡ Fun fact **Coding is a passion and not profession.**
+</div>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="./pic4.gif" alt="github-banner" width="100%"  />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
