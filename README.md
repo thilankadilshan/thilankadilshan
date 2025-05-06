@@ -18,7 +18,7 @@
 
 <h3 font-size="20" align="center">A passionate FUll Stack developer and a student from Sri Lanka.</h3>
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="gif6.gif"/>
+- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:auto; height:100rem" src="gif6.gif"/>
 
 - 👯 I’m looking to collaborate on **React Framework**
 
