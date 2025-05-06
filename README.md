@@ -18,9 +18,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 font-size="20" align="center">A passionate FUll Stack developer and a student from Sri Lanka.</h3>
+<h3 font-size="20" align="left">A passionate FUll Stack developer and a student from Sri Lanka.</h3> <img align="right" style="width:16rem; height:auto" src="gif6.gif"/>
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="gif6.gif"/>
+- 🌱 I’m currently learning **To be Extroverted** 
 
 - 👯 I’m looking to collaborate on **React Framework**
 
