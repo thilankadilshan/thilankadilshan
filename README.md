@@ -2,7 +2,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+👋+It's+me+Thilnaka!!!;I'm+a+learning+developer.+💻;I'm+a+CRAZY+cricket+fan;And+I'm+from+Sri+Lanka+🌴🌞" alt="Typing SVG" />
   </a>
-  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </p>
 <div align="center">
 <img style="width:auto; height:30rem" src="gif6.gif"/>
@@ -15,10 +17,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{thilankadilshan}/count.svg" alt="thilankadilshan :: Visitor's Count" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
 
 <h2 align="center">💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -104,6 +102,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 <div align="center">
 <h3 font-size="20" align="center">A passionate FUll Stack developer and a student from Sri Lanka.</h3>
