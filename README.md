@@ -5,7 +5,7 @@
   
 </p>
 
-<img align="center" style="width:auto; height:30rem margin-bottom:20px" src="gif6.gif"/>
+<img align="left" style="width:auto; height:30rem" src="gif6.gif"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -18,6 +18,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
 <div align="center">
 <h3 font-size="20" align="center">A passionate FUll Stack developer and a student from Sri Lanka.</h3>
 
