@@ -171,16 +171,15 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilankadilshan&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
- <img src="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/snake.svg" alt="Snake animation" />
-
 <div align="center">
+ <img src="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/snake.svg" alt="Snake animation" />
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thilankadilshan/thilankadilshan/output/pacman-contribution-graph.svg">
 </picture>
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
