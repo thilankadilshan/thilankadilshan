@@ -8,8 +8,7 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-### 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/thilankadilshan/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=thilankadilshan&color=green&style=for-the-badge)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
