@@ -8,7 +8,9 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=thilankadilshan&color=green&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thilankadilshan&color=green&style=for-the-badge" alt="Visitor Count" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
