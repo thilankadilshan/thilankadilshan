@@ -9,7 +9,7 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thilankadilshan&color=green&style=for-the-badge" alt="Visitor Count" />
+  <img src="https://img.shields.io/static/v1?label=Profile%20Views&message=Dynamic&color=blue&style=for-the-badge" alt="Visitor Count">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
