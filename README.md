@@ -186,3 +186,7 @@
 [![Play on YouTube Music](https://img.shields.io/badge/▶️%20Play%20on%20YouTube%20Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://music.youtube.com/watch?v=fRQg_9ulGuI&si=hUaQ-K4CjvUCF6r5)
 
 </div>
+
+# Thilanka Dilshan — Portfolio
+Software Engineer | Content Creator | Singer from Sri Lanka
+🌐 [thilankadilshan.vercel.app](https://thilankadilshan.vercel.app)
